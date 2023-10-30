@@ -15,5 +15,5 @@ Robocopy allows you to resume file transfer even if it gets interupted in the mi
 
 Think about any real-life scenarios from your cultural context where the use of command line tools could be beneficial. Describe one such scenario and explain how a specific command line tool would help address the situation.
 
-The only one I can think of is using gpupdate on the computers within a hospital. The computer we had would often slow down and need various updates, but we were always to busy to complete them. This would essentially force the updates at a certain time.
+The only one I can think of is using gpupdate on the computers within a hospital. The computer we had would often slow down and need various updates, but we were always to busy to complete them. This would essentially force the updates, using /force, at a certain time.
 
