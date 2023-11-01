@@ -20,7 +20,7 @@ PowerShell's automation capabilities allow you to perform tasks more efficiently
 
 Think about a situation where you might use PowerShell in your everyday life or job. How could PowerShell help you accomplish a specific task or solve a problem?
 
-As I nurse it's interesting having started this course to think back on how truly awful the software is that we have to use to chart.  Even the most widely used programs don't even have a way to alert you when it's getting close to the time a patient's medicaiton is due. 
+As I nurse it's interesting having started this course to think back on how truly awful the software is that we have to use to chart.  Even the most widely used programs don't even have a way to alert you when it's getting close to the time a patient's medicaiton is due. With Powershell, you could do something like create a script that sends automated medication reminders to the a computer or other device. This would have been extremely helpful when dealing with multiple patients.
 
 
 Source: https://www.techthoughts.info/ps1-should-you-learn-powershell/#PowerShell_vs_Bash
