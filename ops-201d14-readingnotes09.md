@@ -14,7 +14,10 @@ SOPs steer an organization to achieve the mission, vision, and goals of an organ
 
 What does the author emphasize regarding the audience when writing SOPs, and why is it essential to consider them?
 
+The author emphsizes that the SOP might be tailored to your audience and if the SOP does not work for your audience, your SOP doesn’t work. The author states conducting regular periodic reviews of your SOPs with the target audience can help to identify and incorporate improvements.
 
 Imagine you are a part of a multicultural team responsible for following an SOP. How would you address potential misunderstandings or differing interpretations of the procedure due to cultural differences? Propose strategies to foster effective cross-cultural communication.
+
+I've always found that pictures can be helpful to make sure everyone is on the same page.  Sometimes someone can explain things in writing, but it can be confusing to interpretely differently by different people. Pictures or samples/templates of what needs to be done can usually eliminate the different interpretations. 
 
 source: https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop
