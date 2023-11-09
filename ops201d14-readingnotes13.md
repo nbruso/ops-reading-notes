@@ -29,6 +29,6 @@ Service-oriented architecture (SOA) has multiple benefits including:
 
 Analyze how cloud virtualization can promote equitable access to technology resources across diverse populations. How can this technology bridge cultural gaps and empower underserved communities?
 
-
+Cloud virtualization can help make IT resources less expensive so it may be accessible to more people. It also supports collaboration which can accelerate innovation. Finally, it can also help to provide more access to education and training making IT resources more available to more people that might not traditional have access to these resources.
 
 source: https://www.joe0.com/2017/06/11/importance-of-virtualization-in-the-amazon-ec2-cloud/
