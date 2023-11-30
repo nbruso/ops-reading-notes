@@ -39,4 +39,8 @@ Q. **Cameras, ID card scanners, locked doors, and biometrics are just a few exam
 
 A. Physical security measures.
 
-sources: https://medium.com/@ethicalentrepreneur/cidr-block-notation-explained-in-2-minutes-1010ec0dbc15
+### sources: 
+
+#### https://medium.com/@ethicalentrepreneur/cidr-block-notation-explained-in-2-minutes-1010ec0dbc15
+
+#### https://www.comptia.org/blog/security-awareness-training-network-segmentation
