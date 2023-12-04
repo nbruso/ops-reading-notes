@@ -14,4 +14,4 @@ People use VPNs to hide their IP addresses, surf the internet securely, access g
 - Intranet-based Site-to-Site VPN: Connects local networks in different offices to securely share resources.
 - Extranet-based Site-to-Site VPN: Connects networks of different companies to share selected resources while keeping others private.
 
-### source: 
+### source: https://www.fortinet.com/fr/resources/cyberglossary/what-is-site-to-site-vpn
