@@ -40,4 +40,4 @@
 
    - **Encryption Algorithms:** Password Authentication Protocol (PAP) or Challenge Handsake Authentication Protocol (CHAP).
 
-### sources: https://www.geeksforgeeks.org/computer-network-aaa-authentication-authorization-and-accounting/; https://archive.is/27Y19#selection-867.0-2090.0
+### sources: https://www.geeksforgeeks.org/computer-network-aaa-authentication-authorization-and-accounting/; https://archive.is/27Y19#selection-867.0-2090.0; https://chat.openai.com/share/954f1dc4-fb1b-490d-8142-7275ad39c5ae (for diagram)
