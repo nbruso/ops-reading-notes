@@ -12,6 +12,6 @@
 
 3. **How does the typical SOC team structure resemble the structure of an IT Help Desk.**
 
-   The structure of a typical SOC team is hierarchical, similar to an IT Help Desk. It starts with Level 1, the first responders who monitor alerts and decide on their urgency. Level 2 handles incident resolution, Level 3 focuses on proactive security operations, and Level 4 consists of managers overseeing all activities, much like escalated support levels in an IT Help Desk.
+   The structure of a typical SOC team is usually hierarchical like an IT Help Desk. It starts with Level 1, the first responders who monitor alerts and decide on their urgency. Level 2 handles incident resolution, Level 3 focuses on proactive security operations, and Level 4 consists of managers overseeing all activities. Level 4 is like escalated support levels in an IT Help Desk.
 
 #### source: https://www.splunk.com/en_us/blog/learn/soc-security-operation-center.html?301=/en_us/data-insider/what-is-a-security-operations-center.html
